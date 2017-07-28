@@ -4,7 +4,7 @@
 ![](https://microsoftcloudexplorer.gallerycdn.vsassets.io/extensions/microsoftcloudexplorer/visualstudiotoolsfordocker-preview/0.41.0/1482142258056/176081/2/DockerIcon.png)
 
 ### Step 1:-
-#### Create the file with the name of Dockerfile. "D" Should be in capital also the file name should as aname of Dockerfile.
+#### Create the file with the name of Dockerfile. "D" Should be in capital also the file name should as a name of Dockerfile.
 
 > vi Dockerfile 
 ### Step 2:-
