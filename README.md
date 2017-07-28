@@ -17,7 +17,6 @@
         RUN yum -y install perl perl-Net-SSLeay openssl perl-IO-Tty perl-Encode-Detect 
         RUN rpm -U webmin-1.850-1.noarch.rpm
         CMD ["echo","CENT-OS INSTALLED WITH WEBMIN"]
-        "Blockquotes Blockquotes", [Link](http://localhost/)。
         #Demo centos by Dockerfile.
 ### Step 3:-
 
