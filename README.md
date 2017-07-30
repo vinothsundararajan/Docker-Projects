@@ -3,7 +3,7 @@
 #### Here, i posted to create webmin in centos docker container.
 ![](https://microsoftcloudexplorer.gallerycdn.vsassets.io/extensions/microsoftcloudexplorer/visualstudiotoolsfordocker-preview/0.41.0/1482142258056/176081/2/DockerIcon.png)
 
-> Source link docker pull vinothssv/centoswebmindocker
+> Source link docker pull vinothssv/centoswebmindocker:version1.1
 
 ### Step 1:-
 #### Create the file with the name of Dockerfile. "D" Should be in capital also the file name should as a name of Dockerfile.
