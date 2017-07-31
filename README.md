@@ -72,7 +72,7 @@
 >[root@67d757d116e5 ~]# /etc/init.d/webmin start
 
 ### Step 9:-
-#### Not manditatory, To be more persistence even if, we exit the conatiner the below nsenter image can helps to be stable.  for that we need to pull nsenter image by below command.
+#### Not manditatory, To be more persistence even if, we exit the container the below nsenter image can helps to be stable.  for that we need to pull nsenter image by below command.
 > docker pull jpetazzo/nsenter
 
 #### once downloaded we need to run the below command.
